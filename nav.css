@@ -1,0 +1,43 @@
+aside {
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 22px;
+  height: 100vh;
+  width: 100vw;
+  background-color: black;
+  text-align: center;
+  display: none;
+}
+
+#side-drawer:target {
+  display: block;
+}
+
+.second-main ul {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  top: 125px;
+  list-style: none;
+  font-size: 22px;
+  font-family: sans-serif;
+}
+
+.second-main ul li {
+  margin-bottom: 22px;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+}
+
+#heighlight-mobile {
+  font-weight: bold;
+  margin-bottom: 6px;
+}
+
+#underline {
+  margin: 0 auto 22px auto;
+  height: 4px;
+  width: 65px;
+  background-color: white;
+}

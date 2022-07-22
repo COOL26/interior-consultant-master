@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(40, 40, 40);
+  color: white;
+  padding: 22px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row-reverse;
+  margin-bottom: 36px;
+}
+
+header h4 {
+  border: 1px solid white;
+  padding: 12px;
+  font-weight: 300;
+}
+
+.material-symbols-outlined {
+  font-size: 44px;
+  font-weight: 600;
+}
+
+.text-content h1 {
+  font-size: 36px;
+  font-family: sans-serif;
+  margin-bottom: 36px;
+}
+
+.text-content p {
+  width: 80%;
+  font-family: sans-serif;
+  letter-spacing: 2px;
+  word-spacing: 3px;
+  margin-bottom: 36px;
+}
+
+.read-more {
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-bottom: 36px;
+  letter-spacing: 2px;
+  word-spacing: 3px;
+}
+
+#img-1 {
+  width: 100%;
+  height: auto;
+}
+
+#img-2 {
+  border-radius: 50%;
+  width: 15%;
+  height: auto;
+  margin-right: 22px;
+  margin-bottom: 22px;
+}
+
+.card-section {
+  position: relative;
+  top: -52px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80%;
+  text-align: left;
+  font-family: sans-serif;
+  margin: 0 auto;
+  background-color: black;
+  padding: 22px 22px;
+}
+
+.profile-card-section {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.profile-card-section div p {
+  font-size: 16px;
+  letter-spacing: 1.5px;
+  word-spacing: 3px;
+}
+
+#designation {
+  font-size: smaller;
+  color: rgb(121, 118, 118);
+}
+
+.card-section p {
+  font-size: 22px;
+}
