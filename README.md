@@ -37,8 +37,8 @@
 
 ![interior-consultant-design](https://user-images.githubusercontent.com/91824236/180430667-b020f069-b1e9-421e-aedb-f83816cf510e.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
+- First time in my life I have made a mobile first website.
+- I am sorry, rem units are not used in the project yet, but I will make the changes soon.
 - You can see my website on this link: https://cool26.github.io/interior-consultant-master/
 - It was a really good experience.
 - I have improved my responsive web-design.
