@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://cool26.github.io/404-error-responsive-webpage/">
+    <a href="https://cool26.github.io/interior-consultant-master/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://cool26.github.io/404-error-responsive-webpage/">
+    <a href="https://cool26.github.io/interior-consultant-master/">
       Solution
     </a>
     <span> | </span>
