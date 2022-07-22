@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href=" https://cool26.github.io/interior-consultant-master/">
+    <a href="https://cool26.github.io/404-error-responsive-webpage/">
       Demo
     </a>
     <span> | </span>
-    <a href=" https://cool26.github.io/interior-consultant-master/">
+    <a href="https://cool26.github.io/404-error-responsive-webpage/">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
   </h3>
